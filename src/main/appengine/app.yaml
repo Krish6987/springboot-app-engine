@@ -1,4 +1,5 @@
 runtime: java
+service: default
 env: flex
 
 handlers:
