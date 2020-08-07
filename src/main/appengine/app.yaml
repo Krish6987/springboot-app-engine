@@ -1,2 +1,2 @@
 runtime: java11
-entrypoint: 'java -jar springboot-0.0.1-SNAPSHOT.jar'
+entrypoint: 'java -jar target/springboot-0.0.1-SNAPSHOT.jar'
