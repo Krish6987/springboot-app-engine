@@ -1,2 +1,2 @@
 runtime: java11
-entrypoint: mvn spring-boot:run
+entrypoint: 'java -jar springboot-0.0.1-SNAPSHOT.jar'
