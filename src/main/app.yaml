@@ -1,3 +1,2 @@
 runtime: java11
 instance_class: F1
-entrypoint: java -noverify -jar springboot-0.0.1-SNAPSHOT.war
