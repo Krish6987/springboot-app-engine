@@ -8,7 +8,7 @@ steps:
    args: ['package']
  
  - name: "gcr.io/cloud-builders/gcloud"
-  args: ["app", "deploy","app/app.yaml"]
-  timeout: 2000s
+   args: ["app", "deploy","app/app.yaml"]
+   timeout: 2000s
 
 timeout: 2000s
